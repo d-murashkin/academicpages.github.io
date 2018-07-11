@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Applied Physics and Mathematics, Moscow Institute of Physics and Technology, 2013
+* M.S. in Applied Physics and Mathematics, Moscow Institute of Physics and Technology, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012.09 - 2013-08: Research Assistant
+  * Research Center "Nanotechnology" of FSUE "Central Scientific Research Institute of Chemistry and Mechanics, Moscow, Russia
+  * Duties included: design of parts of a spin generator
+  * Supervisor: Dr. Sergey Markochev
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014.08 - 2015.06: External Master Student
+  * University Centre in Svalbard (UNIS), Longyearbeen, Norway
+  * Duties included: Laboratory and field studies of thermal expansion of sea ice
+  * Supervisor: Dr. Aleksey Marchenko
+
+* 2016.03 - present: Research Assistant
+  * University of Bremen, Bremen, Germany
+  * Duties included: Remote sensing of sea ice, work with SAR (Sentinel-1), optical data (Sentinel-2) and altimetry (CryoSat-2).
+  * Supervisor: Dr. Gunnar Spreen
+
+* 2018.02 - 2018.04: Guest student
+  * University of Victoria, Victoria, BC, Canada
+  * Supervisor: Dr. Randall Scharien
+
+Field experience
+======
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physics and Mathematics
+* Python, C
+  * numpy
+  * scikit-learn
+  * scikit-image
+* Image processing
+* Machine learning
+* gdal
+* Linux
 
 Publications
 ======
@@ -54,6 +69,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
