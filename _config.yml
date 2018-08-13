@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dmitrii-murashkin-aa98b983/"
+  linkedin         : "dmitrii-murashkin-aa98b983"
   orcid            : "https://orcid.org/0000-0002-5818-0038"
   pinterest        :
   soundcloud       :
@@ -179,6 +179,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  fieldworks:
+    output: true
+    permalink: /:collection/:path/
+  labworks:
     output: true
     permalink: /:collection/:path/
 
