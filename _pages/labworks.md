@@ -1,7 +1,7 @@
 ---
-permalink: /field_experience/
-title: "Field experience"
-excerpt: "Field experience"
+permalink: /labworks/
+title: "Laboratory experience"
+excerpt: "Laboratory experience"
 author_profile: true
 ---
 
