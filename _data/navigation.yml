@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+    title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
+    title: "Conferences"
     url: /conferences/    
 
-  - title: "Teaching"
+    title: "Teaching"
     url: /teaching/    
 
     title: "Field experience"
@@ -15,8 +15,8 @@ main:
     title: "Laboratory experience"
     url: /laboratory_experience/
     
-  - title: "CV"
+    title: "CV"
     url: /cv/
     
-  - title: "Guide"
+    title: "Guide"
     url: /markdown/
