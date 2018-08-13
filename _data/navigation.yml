@@ -10,10 +10,10 @@ main:
     url: /teaching/    
 
   - title: "Field experience"
-    url: /field_experience/
+    url: /fieldworks/
 
-  -  title: "Laboratory experience"
-    url: /laboratory_experience/
+  - title: "Laboratory experience"
+    url: /labworks/
     
   - title: "CV"
     url: /cv/
