@@ -5,4 +5,8 @@ excerpt: "Field experience"
 author_profile: true
 ---
 
-Field experience:
+{% include base_path %}
+
+{% for post in site.field_experience reversed %}
+  {% include archive-single.html %}
+{% endfor %}
