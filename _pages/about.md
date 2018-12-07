@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Personal web-page.
+I am a PhD student at the University of Bremen.
+I do remote sensing of sea ice.
+

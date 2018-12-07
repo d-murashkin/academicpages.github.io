@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* 2012.09 - 2013-08: Research Assistant
+* 2012.11 - 2013-08: Research Assistant
   * Research Center "Nanotechnology" of FSUE "Central Scientific Research Institute of Chemistry and Mechanics, Moscow, Russia
   * Duties included: design of parts of a spin generator
-  * Supervisor: Dr. Sergey Markochev
+  * Supervisor: Sergey Markochev
 
 * 2014.08 - 2015.06: External Master Student
   * University Centre in Svalbard (UNIS), Longyearbeen, Norway
