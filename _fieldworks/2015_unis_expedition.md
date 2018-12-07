@@ -1,6 +1,6 @@
 ---
 title: "Boat expedition, field work on sea ice"
-collection: fieldwork
+collection: fieldworks
 type: "expedition"
 permalink: /field_experience/2015_unis_expedition
 venue: "The University Centre in Svalbard"
