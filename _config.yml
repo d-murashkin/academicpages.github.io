@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dmitrii Murashkin"
 title_separator          : "-"
 name                     : &name "Dmitrii Murashkin"
-description              : &description "PhD student at University of Bremen"
+description              : &description "PhD student at University of Bremen (Remote sensing of sea ice)"
 url                      : https://d-murashkin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "d-murashkin/d-murashkin.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Dmitrii Murashkin"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Bremen"
+  bio              : "PhD student at University of Bremen (Remote sensing of sea ice)"
   location         : "Bremen, Germany"
   employer         : "University of Bremen"
   googlescholar    : 
@@ -176,9 +176,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
